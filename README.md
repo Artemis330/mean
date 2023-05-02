@@ -9,13 +9,6 @@ MEAN is a set of Open Source components that together, provide an end-to-end fra
 - **A**ngular (formerly Angular.js): Front-end web app framework; runs your JavaScript code in the user's browser, allowing your application UI to be dynamic
 - **N**ode.js : JavaScript runtime environment – lets you implement your application back-end in JavaScript
 
-### Pre-requisites
-
-- git - [Installation guide](https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/) .
-- node.js - [Download page](https://nodejs.org/en/download/) .
-- npm - comes with node or download yarn - [Download page](https://yarnpkg.com/lang/en/docs/install) .
-- mongodb - [Download page](https://www.mongodb.com/download-center/community) .
-
 ### Installation
 
 ```
