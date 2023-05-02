@@ -19,7 +19,7 @@ MEAN is a set of Open Source components that together, provide an end-to-end fra
 ### Installation
 
 ```
-git clone https://github.com/linnovate/mean
+git clone https://github.com/gravesjeff/mean
 cd mean
 cp .env.example .env
 yarn
@@ -31,7 +31,7 @@ yarn start (for development)
 > ⚠️ Make sure your Docker version is 19.03.0+.
 
 ```
-git clone https://github.com/linnovate/mean
+git clone https://github.com/gravesjeff/mean
 cd mean
 cp .env.example .env
 docker-compose up -d
